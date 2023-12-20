@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Thala For a Reason</string>
+    <string name="thala_for_a_reason_emoji">"Thala For a Reason 7️⃣"</string>
+    <string name="why_thala_for_a_reason">Why Thala For a Reason?</string>
+    <string name="label_enter_prompt">Enter your prompt</string>
+    <string name="validation">Please enter prompt</string>
+    <string name="share">Share</string>
+</resources>
